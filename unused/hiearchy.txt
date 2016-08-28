@@ -1,0 +1,10 @@
+Main class = Viewer (JFrame)
+	put Components inside JFrame
+
+Components:
+	make objects of the movingObject
+	contains all the runnables, threads, and starts the threads as well
+
+movingObject
+	extends your original picture
+	contains animate() , draw() methods
